@@ -1,0 +1,10 @@
+# files / directory names that shouldn't be pushed to github
+
+envs-
+
+.DS_Store
+
+.vscode
+
+
+__pycache__
