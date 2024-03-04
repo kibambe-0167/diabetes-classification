@@ -1,6 +1,6 @@
 # files / directory names that shouldn't be pushed to github
 
-envs-
+env-*
 
 .DS_Store
 
